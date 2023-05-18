@@ -1,4 +1,4 @@
 hello world! nihao!
 hello world! nihao!
-hello world! nihao!
 hello world! nihao! master test
+hello world! nihao! hot-fix test
